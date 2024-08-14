@@ -6,6 +6,14 @@ https://www.cobalt.io/vulnerability-wiki
 https://everythingmoe.com/
 https://www.youtube.com/watch?v=tprP-GDW_6c  ippSec youtuber
 https://github.com/rkhal101/Hack-the-Box-OSCP-Preparation/blob/master/my-oscp-journey-a-review.md    Oscp Journey
+https://deautherwatches.com/?fbclid=PAZXh0bgNhZW0CMTEAAaZvABoydJbYmOUOt14YjSfkqocOaXDnuUcWrGzbkaRLhYMCZU9Rjj7nq5g_aem_kEdjTZDpdL5P-orCs3hpXQ
+
+
+
+
+
+
+
 
 blogs
 medium.com/@the_harvester… (XSS)
