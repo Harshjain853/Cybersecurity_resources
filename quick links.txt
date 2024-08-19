@@ -1,21 +1,22 @@
-Websites
+Websites.....................................................................
 
-https://www.ired.team/
-https://pentester.land/
-https://www.cobalt.io/vulnerability-wiki
-https://everythingmoe.com/
-https://www.youtube.com/watch?v=tprP-GDW_6c  ippSec youtuber
-https://github.com/rkhal101/Hack-the-Box-OSCP-Preparation/blob/master/my-oscp-journey-a-review.md    Oscp Journey
-https://deautherwatches.com/?fbclid=PAZXh0bgNhZW0CMTEAAaZvABoydJbYmOUOt14YjSfkqocOaXDnuUcWrGzbkaRLhYMCZU9Rjj7nq5g_aem_kEdjTZDpdL5P-orCs3hpXQ
-
-
-
-
+https://www.ired.team/                 															           Writeups, Blogs
+https://pentester.land/                     															   writeups, Blogs
+https://www.cobalt.io/vulnerability-wiki     															   Vulnerability list 
+https://everythingmoe.com/                                                                                                                                         hacking tools website india
+https://www.youtube.com/watch?v=tprP-GDW_6c                                                                                                                        ippSec youtuber
+https://github.com/rkhal101/Hack-the-Box-OSCP-Preparation/blob/master/my-oscp-journey-a-review.md                                                                  Oscp Journey
+https://deautherwatches.com/?fbclid=PAZXh0bgNhZW0CMTEAAaZvABoydJbYmOUOt14YjSfkqocOaXDnuUcWrGzbkaRLhYMCZU9Rjj7nq5g_aem_kEdjTZDpdL5P-orCs3hpXQ                       hacker watches
+https://www.indiacode.nic.in/bitstream/123456789/13116/1/it_act_2000_updated.pdf                                                                                   IT Act Book
+https://www.cert-in.org.in/                                                                                                                                        CERT In Website
 
 
 
 
-blogs
+
+
+
+blogs...............................................................................................................
 medium.com/@the_harvester… (XSS)
 
 2. cyberweapons.medium.com/reflected-xss-… (RXSS)
@@ -40,13 +41,15 @@ https://www.securityweek.com/regresshion-openssh-flaw-potential-exploitation-att
 
 
 
-Books
+Books............
 https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf
 https://www.blackhat.com/docs/us-14/materials/us-14-Picod-Bringing-Software-Defined-Radio-To-The-Penetration-Testing-Community-WP.pdf      Radio frequency pentesting
 
 
-htb labs
-Linux
+HTB labs
+
+Linux...................................................................
+
 lame
 brainfuck
 shocker
@@ -82,7 +85,11 @@ Blunder
 Tabby
 Doctor
 
-Windows
+
+
+Windows..........................................................................................................
+
+
 legacy
 Blue
 devel
@@ -106,7 +113,11 @@ Active
 Remote
 Fuse
 
-More challenging than OSCP
+
+
+More challenging than OSCP..................................................................................
+
+
 Jeeves
 Brat
 Tally
@@ -137,7 +148,9 @@ BlackField
 
 
 
-Vulnhub
+Vulnhub............................................................................
+
+
 
 Current Systems that are Simliar to the PWK/OSCP V1 course at the time	
 Kioptrix: Level 1 (#1): https://www.vulnhub.com/entry/kioptrix-level-1-1,22/	
