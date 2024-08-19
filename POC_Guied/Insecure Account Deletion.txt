@@ -1,0 +1,26 @@
+Insecure Account Deletion
+Hello Team,
+
+There is an insecure account deletion Issue.
+
+Exploit Scenario:
+The user logins into his account on a shared computer like offices, café, library etc,
+By mistake, the user left the account open.
+Attacker came and found account open on shared device. Attacker tries to delete the user's account
+Attacker can easily delete the account because the system did not ask for any user authentication prior to the execution of this sensitive action.
+Steps to reproduce:
+(CHANGE AS PER YOUR DOMAIN).
+Go to account setting.
+Go to delete account
+Type DELETE and click go!
+(If your account is deleted without any password/user confirmation then this is an Insecure account deletion vulnerability)
+
+Mitigation:
+Use re-authentication so when anyone/user is deleting the account, they would be asked to input password before the deletion of account. This will ensure that a legit user is attempting to delete account.
+
+
+Let us know if you need more information.
+
+I have attached PoC for your ready reference.
+
+Thank you.
