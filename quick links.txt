@@ -8,8 +8,8 @@ https://www.youtube.com/watch?v=tprP-GDW_6c                                     
 https://github.com/rkhal101/Hack-the-Box-OSCP-Preparation/blob/master/my-oscp-journey-a-review.md                                                                  Oscp Journey
 https://deautherwatches.com/?fbclid=PAZXh0bgNhZW0CMTEAAaZvABoydJbYmOUOt14YjSfkqocOaXDnuUcWrGzbkaRLhYMCZU9Rjj7nq5g_aem_kEdjTZDpdL5P-orCs3hpXQ                       hacker watches
 https://www.indiacode.nic.in/bitstream/123456789/13116/1/it_act_2000_updated.pdf                                                                                   IT Act Book
-https://www.cert-in.org.in/                                                                                                                                        CERT In Website
-
+https://dayzerosec.com/tags/ctf-to-real-world/                                                                                             Something of my Intrest Website
+https://enigma96.medium.com/google-dork-mastery-part-1-finding-hidden-critical-files-with-google-dorks-like-a-pro-d28ad159e9ae?source=rss------bug_bounty-5 
 
 
 
