@@ -10,7 +10,7 @@ https://deautherwatches.com/?fbclid=PAZXh0bgNhZW0CMTEAAaZvABoydJbYmOUOt14YjSfkqo
 https://www.indiacode.nic.in/bitstream/123456789/13116/1/it_act_2000_updated.pdf                                                                                   IT Act Book
 https://dayzerosec.com/tags/ctf-to-real-world/                                                                                             Something of my Intrest Website
 https://enigma96.medium.com/google-dork-mastery-part-1-finding-hidden-critical-files-with-google-dorks-like-a-pro-d28ad159e9ae?source=rss------bug_bounty-5 
-
+https://github.com/KathanP19/HowToHunt/blob/master/API_Testing/Hidden_API_Functionality_Exposure.md                                           github repo on vulnerabilities
 
 
 
